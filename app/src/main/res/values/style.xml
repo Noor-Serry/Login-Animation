@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="custom_text_input_layout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+    <item name="boxStrokeColor" >#B353E88B</item>
+    <item name="boxCornerRadiusTopStart">25dp</item>
+    <item name="boxCornerRadiusBottomEnd">25dp</item>
+    <item name="hintTextColor">#B315BE77</item>
+    </style>
+</resources>
